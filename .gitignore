@@ -6,8 +6,8 @@ _docs
 .env
 .env.*
 
-*.md 
-*.txt
+.md 
+.txt
 
 .DS_Store
 
