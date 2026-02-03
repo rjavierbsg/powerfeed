@@ -1,0 +1,14 @@
+node_modules
+.dist
+/dist
+_docs
+
+.env
+.env.*
+
+*.md 
+*.txt
+
+.DS_Store
+
+coverage
